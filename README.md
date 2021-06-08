@@ -1,7 +1,9 @@
  Hi there 👋
 
 
-**OmimiCode/OmimiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oluwanishola B. Oretan/OmimiCode** is a ✨ _digital Native_ ✨ of [semicolon africa](www.semicolon.africa), where he engages in software 
+enginneering alongside interdisciplliary studies and 
+innovations for african development.
 
 Here are some ideas to get you started:
 
