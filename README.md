@@ -2,7 +2,7 @@
 
 
 **Oluwanishola B. Oretan/OmimiCode** is a ✨ _digital Native_ ✨ of [semicolon africa](www.semicolon.africa), where he engages in software 
-enginneering alongside interdisciplliary studies and 
+enginneering alongside interdisciplliary studies and [image](https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png)
 innovations for african development.
 
 Here are some ideas to get you started:
