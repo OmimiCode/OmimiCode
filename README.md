@@ -1,5 +1,5 @@
-<h1 align="center">SOFTWARE ENGINEER / MULTIPOTENTIALITE Barnabas Oretan</h1>
-<h3 align="center">I can't shut up about my eclectic mix of skills, experiences, backgrounds and how my skills are transferable as a MULTIPOTENTIALITE. It is rarely a waste of time to pursue somthing I am drown to. I have been applying knowledge from another field entirely than i could have anticipated. I have horned an incredible ability to MORPH into whatever (take up roles) depending on my clients(employer) need in a given situation.</h3>
+<h1 align="left">SOFTWARE ENGINEER / MULTIPOTENTIALITE</h1>
+<h3 align="justified">I can't shut up about my eclectic mix of skills, experiences, backgrounds and how my skills are transferable as a MULTIPOTENTIALITE. It is rarely a waste of time to pursue somthing I am drown to. I have been applying knowledge from another field entirely than i could have anticipated. I have horned an incredible ability to MORPH into whatever (take up roles) depending on my clients(employer) need in a given situation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omimicode&label=Profile%20views&color=0e75b6&style=flat" alt="omimicode" /> </p>
 
