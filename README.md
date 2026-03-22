@@ -1,6 +1,6 @@
 # Barnabas Oretan
 
-**Senior Software Engineer | Solutions Architect · Founder & CEO @ [The Loremi](https://theloremi.com) · Editor @ [The Tech Buzz](https://techbuzz.ai)**
+**Founder & CEO @ [The Loremi](https://theloremi.com) · Lead Software Engineer @ [Standard Labs](https://standard.ad) · Sole Solutions Architect & Editor @ [The Tech Buzz](https://techbuzz.ai)**
 
 I build AI-powered platforms that scale massively while keeping infrastructure costs low.
 
