@@ -43,6 +43,6 @@ I build AI-powered platforms that scale massively while keeping infrastructure c
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/barnabas-oretan)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/barnabasoretan)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/barnabasoretan_)
 [![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=safari&logoColor=white)](https://barnabasoretan.theloremi.com)
 [![Tech Buzz](https://img.shields.io/badge/-Tech%20Buzz-FF6B35?style=flat)](https://techbuzz.ai/authors/barnabas-oretan)
